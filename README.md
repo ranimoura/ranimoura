@@ -8,7 +8,7 @@
 
 **`Analista de Qualidade de Software`**
 
-Sou Raniere, bacharel em Sistemas de Informação, especialista em Engenharia de Software e em Metodologias Ágeis, apaixonado por **Testes e Qualidade de Software**, além de acompanhar de perto a evolução das novas tecnologias.
+Sou bacharel em **Sistemas de Informação**, especialista em **Engenharia de Software** e em **Metodologias Ágeis**, apaixonado por **Testes e Qualidade de Software** e entusiasta das novas tecnologias, acompanhando sua constante evolução.
 
 ## Tecnologias:
 <div align="left">
