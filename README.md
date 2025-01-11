@@ -10,7 +10,7 @@
 
 Sou Raniere, bacharel em Sistemas de Informação, especialista em Engenharia de Software e em Metodologias Ágeis, apaixonado por **Testes e Qualidade de Software**, além de acompanhar de perto a evolução das novas tecnologias.
 
-## ☕ Tecnologias:
+## Tecnologias:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="21" />
@@ -34,3 +34,9 @@ Sou Raniere, bacharel em Sistemas de Informação, especialista em Engenharia de
 </div>
 
 ## Estatísticas:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranimoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranimoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
+
+## Materiais para estudo:
