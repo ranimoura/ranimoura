@@ -1,16 +1,16 @@
-# 👨🏻‍💻 Raniere Moura de Oliveira 🪲
-
-**`Analista de Qualidade de Software`**
-
-Sou Raniere, bacharel em Sistemas de Informação, especialista em Engenharia de Software e em Metodologias Ágeis, apaixonado por **Testes e Qualidade de Software**, além de acompanhar de perto a evolução das novas tecnologias.
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ranimoura/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-## Linguagens e Tecnologias:
+# 👨🏻‍💻 Raniere Moura de Oliveira 🪲
+
+**`Analista de Qualidade de Software`**
+
+Sou Raniere, bacharel em Sistemas de Informação, especialista em Engenharia de Software e em Metodologias Ágeis, apaixonado por **Testes e Qualidade de Software**, além de acompanhar de perto a evolução das novas tecnologias.
+
+## ☕ Tecnologias:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="21" />
