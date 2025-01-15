@@ -16,21 +16,21 @@ Sou bacharel em **Sistemas de Informação**, especialista em **Engenharia de So
   <img width="21" />
   <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootstrap logo"  />
-  <img width="21" />
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="21" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
   <img width="21" />
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
   <img width="21" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootstrap logo"  />
+  <img width="21" />
   <img src="https://skillicons.dev/icons?i=selenium" height="42" alt="selenium logo"  />
   <img width="21" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
 </div>
 
 ## Estatísticas:
